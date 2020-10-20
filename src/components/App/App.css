@@ -1,0 +1,26 @@
+
+.container {
+  display: flex;
+  margin: 50px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.instructions {
+  margin: 20px 0px 10px;
+}
+
+.button {
+  user-select: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 100px;
+  background-color: azure;
+  color: black;
+  cursor: pointer;
+  border-radius: 10px;
+  margin: 10px;
+}
